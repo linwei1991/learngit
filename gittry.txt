@@ -1,4 +1,0 @@
-git is a version control
-git is free
-you can study git by online files
-best wishes.
